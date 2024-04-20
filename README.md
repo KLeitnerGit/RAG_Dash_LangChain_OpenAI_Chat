@@ -3,9 +3,9 @@
 The provided code defines a Dash web application aimed at demonstrating the integration of advanced natural language processing (NLP) techniques for semantic search and interactive chat functionalities
 
 ## Key Features:
--***Semantic Search:*** Leverages embeddings to enhance search capabilities beyond simple keyword matches.
--***Interactive Chat:*** Utilizes a conversational AI to engage users, providing multilingual responses and relevant information sourced from a database.
--***User-Friendly Interface:*** Easy navigation through various features such as home, list view, chat, and background information sections.
+- ***Semantic Search:*** Leverages embeddings to enhance search capabilities beyond simple keyword matches.
+- ***Interactive Chat:*** Utilizes a conversational AI to engage users, providing multilingual responses and relevant information sourced from a database.
+- ***User-Friendly Interface:*** Easy navigation through various features such as home, list view, chat, and background information sections.
 
 ## Technologies Used:
 -***Dash:*** For building the interactive web application.
