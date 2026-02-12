@@ -1,4 +1,4 @@
-# RAG_Dash_LangChain_OpenAI_Chat
+# Ploty Dash App with Conversational Recommender via LangChain
 
 The provided code defines a Dash web application aimed at demonstrating the integration of advanced natural language processing (NLP) techniques for semantic search and interactive chat functionalities
 
